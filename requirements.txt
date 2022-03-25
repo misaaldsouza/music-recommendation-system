@@ -1,0 +1,6 @@
+streamlit
+pickle5
+seaborn
+plotly
+cssutils
+pillow
