@@ -104,23 +104,23 @@ st.sidebar.write('* An artist creating a high energy song with either electric i
 st.sidebar.write('* The most popular artist from 1921–2020 is [*The Beatles*](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2)')
 st.sidebar.title('Visualization')
 # Most Popular Tracks
+# https://github.com/misaaldsouza/music-recommendation-system/tree/main/images
+
 st.sidebar.header('Most Popular Tracks')
-image1 = Image.open('C:/Users/misaa/OneDrive/Desktop/Project/images/popular_tracks.png')
+image1 = Image.open('https://github.com/misaaldsouza/music-recommendation-system/tree/main/images/popular_tracks.png')
 st.sidebar.image(image1)
 #No of tracks added
 st.sidebar.header('No of Tracks Added')
-image2 = Image.open('C:/Users/misaa/OneDrive/Desktop/Project/images/track_added.png')
+image2 = Image.open('https://github.com/misaaldsouza/music-recommendation-system/tree/main/images/track_added.png')
 st.sidebar.image(image2)
 #Correlation
 st.sidebar.header('Correlation Map')
-image4 = Image.open('C:/Users/misaa/OneDrive/Desktop/Project/images/corr.png')
+image4 = Image.open('https://github.com/misaaldsouza/music-recommendation-system/tree/main/images/corr.png')
 st.sidebar.image(image4)
 #Audio Characteristics
 st.sidebar.header('Audio Characteristics')
-image3 = Image.open('C:/Users/misaa/OneDrive/Desktop/Project/images/audioc.png')
+image3 = Image.open('https://github.com/misaaldsouza/music-recommendation-system/tree/main/images/audioc.png')
 st.sidebar.image(image3)
-
-
 
 
 # Background image
