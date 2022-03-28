@@ -107,19 +107,19 @@ st.sidebar.title('Visualization')
 # https://github.com/misaaldsouza/music-recommendation-system/tree/main/images
 
 st.sidebar.header('Most Popular Tracks')
-image1 = Image.open('https://github.com/misaaldsouza/music-recommendation-system/tree/main/images/popular_tracks.png')
+image1 = Image.open('images/popular_tracks.png')
 st.sidebar.image(image1)
 #No of tracks added
 st.sidebar.header('No of Tracks Added')
-image2 = Image.open('https://github.com/misaaldsouza/music-recommendation-system/tree/main/images/track_added.png')
+image2 = Image.open('images/track_added.png')
 st.sidebar.image(image2)
 #Correlation
 st.sidebar.header('Correlation Map')
-image4 = Image.open('https://github.com/misaaldsouza/music-recommendation-system/tree/main/images/corr.png')
+image4 = Image.open('images/corr.png')
 st.sidebar.image(image4)
 #Audio Characteristics
 st.sidebar.header('Audio Characteristics')
-image3 = Image.open('https://github.com/misaaldsouza/music-recommendation-system/tree/main/images/audioc.png')
+image3 = Image.open('images/audioc.png')
 st.sidebar.image(image3)
 
 
