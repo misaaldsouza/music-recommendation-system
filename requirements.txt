@@ -4,3 +4,4 @@ seaborn
 plotly
 cssutils
 pillow
+tqdm
